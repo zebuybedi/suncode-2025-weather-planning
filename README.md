@@ -1,14 +1,17 @@
-# Weather Planning for SunCode 2025
-
-This repository contains weather planning documentation for the SunCode 2025 conference.
+# SunCode 2025 Weather Planning
 
 ## Overview
-- Detailed plans and resources for weather considerations during the event.
+This project documents weather planning for the SunCode 2025 conference.
 
 ## Features
-- Weather forecasts
-- Emergency plans
-- Helpful tips for attendees
+- Weather forecasting data
+- Planning for weather contingencies
 
-## Contribution
-If you have ideas or suggestions, feel free to contribute by opening issues or pull requests.
+## Technology Stack
+- Markdown for documentation
+
+## Usage
+Clone the repository and review the weather planning documentation.
+
+## Future Plans
+- Update with real-time weather data as the event approaches.
